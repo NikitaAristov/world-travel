@@ -1,0 +1,6 @@
+* text=auto
+vendor/** binary
+vendor/composer/* binary
+vendor/psr/log/* binary
+vendor/psr/log/Psr/Log/* binary
+#composer.json text eol=lf

@@ -1,0 +1,10 @@
+Array
+(
+    [event] => payment.succeeded
+    [object] => Array
+        (
+            [id] => 2fb52a6d-000f-5001-8000-1544450b9c24
+            [status] => succeeded
+        )
+
+)

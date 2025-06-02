@@ -1,0 +1,7 @@
+{
+  "event": "payment.canceled",
+  "object": {
+    "id": "2f99ccce-000f-5000-b000-1c937f281e26",
+    "status": "canceled"
+  }
+}
